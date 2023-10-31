@@ -1,0 +1,1169 @@
+
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+
+  .main-header {
+    margin: 0px;
+    background: black;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link {
+    color: black;
+    font-size: 8px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.masroom h2 {
+     text-align: center; 
+    font-size: 62px;
+    color: red;
+    font-weight: bold;
+    line-height: 1.4em;
+    margin: 0px;
+    padding: 50px;
+}
+.pro-img {
+    width: auto;
+    height: auto;
+    margin: 0px;
+}
+
+.the-farm .title p {
+    text-transform: capitalize;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+}
+.the-farm .title h4 {
+    padding: 10px 0px;
+    text-transform: uppercase;
+    font-size: large;
+    font-weight: 700;
+    color: black;
+}
+.helth .helth-img {
+    width: auto;
+    height: auto;
+    margin: 0px 60px 0px 40px;
+}
+
+.helth .helth-title h4 {
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title h2 {
+    margin-right: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title-1 h2 {
+    text-transform: uppercase;
+    font-size: medium;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title-1 h4 {
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title-3 h2 {
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title h5 {
+    margin-left: auto;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+
+.helth .helth-title p {
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    margin-right: 0px;
+}
+.helth .helth-title-2 p {
+  text-align: center;
+    margin-right: 0px;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title-3 p {
+    margin-left: 0px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.our-team-1 h4 {
+    margin: 0px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.2em;
+    color: white;
+}
+
+.our-team-1 h6 {
+    margin: 0px;
+    text-align: center;
+    color: red;
+    font-weight: 300;
+    
+}
+.breads p {
+    padding: 10px 0px;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+
+
+.breads .btn-danger {
+    margin: 0px;
+}
+.top-rated .title p {
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
+
+}
+.icon{
+  text-align: center;
+}
+
+.blog .icon .fa {
+    font-size: 18px;
+    margin: 0px 0px 0px 10px;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: 22px;
+    line-height: inherit;
+}
+.main-footer {
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+.copyright p {
+    font-size: 20px;
+    color: white;
+}
+
+
+
+
+
+
+
+}
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+   .main-header {
+    margin: 0px;
+    background: black;
+}
+.header .address {
+    text-align: right;
+    width: 100%;
+    padding: 20px 0px;
+}
+
+.masroom h2 {
+    /* text-align: left; */
+    font-size: 35px;
+    color: red;
+    font-weight: bold;
+    line-height: 1.4em;
+    margin: 0px;
+    padding: 40px;
+}
+.pro-img {
+    width: auto;
+    height: auto;
+    margin: 0px;
+}
+.the-farm .farm-img {
+    text-align: center;
+    width: 100%;
+    padding: 40px 0px;
+}
+.helth .helth-title h2 {
+    margin-right: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title h4 {
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title h5 {
+    margin-left: 0px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title p {
+    text-transform: capitalize;
+    /* font-size: 12px; */
+    font-weight: 400;
+    color: black;
+    margin-right: 0px;
+    text-align: center;
+}
+
+
+.helth .helth-title-1 h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title-1 p {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+
+.helth .helth-img {
+    width: auto;
+    height: auto;
+    margin: 0px;
+}
+
+.helth .helth-title-1 {
+    padding: 10px 0px;
+    text-align: center;
+}
+.helth .helth-title-1 h5 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title-2 h2{
+text-align: center;
+}
+
+.helth .helth-title-2 p {
+    text-align: center;
+    margin-right: 0px;
+    }
+.helth .helth-title-3 h2 {
+    text-align: center;
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title-3 p {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+ margin: 0px;   
+ color: black;
+
+}
+.shop .shop-details .shop-img {
+    background: #eee;
+    padding: 20px 0px;
+}
+
+.breads .btn-danger {
+    margin: 0px;
+}
+.blof-img {
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.icon{
+  text-align: center;
+}
+.blog .icon .fa {
+    font-size: 28px;
+    margin: 0px 0px 0px 60px;
+}
+.aw-img{
+  text-align: center;
+}
+
+
+
+ul li a {
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+    line-height: 1.2em;
+    font-size: 15px;
+}
+
+
+
+.h5, h5 {
+    font-size: 25px;
+}
+
+.footer-bottom {
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+}
+.copyright p {
+    color: white;
+    font-size: 20px;
+}
+
+ 
+  
+}
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  
+  /* CSS */
+  
+}
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+ .main-header {
+    margin: 0px;
+    background: black;
+}
+
+.header .navbar-expand-lg .navbar-nav .nav-link {
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px;
+    text-transform: uppercase;
+}
+
+.header .icon {
+  text-align: center ;
+    width: 100%;
+    margin: 0px;
+}
+
+
+.masroom {
+    width: 100%;
+    padding: 0px;
+    background: url(../images/mas.jpeg) center top no-repeat;
+    background-size: cover;
+}
+.masroom h2 {
+    text-align: center;
+    font-size: 25px;
+    color: red;
+    font-weight: bold;
+    line-height: 1.4em;
+    margin: 0px;
+    padding: 20px 0px;
+}
+.pro-img {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+    text-align: center;
+}
+.breads .btn-danger {
+    margin: 0px;
+}
+
+.breads p {
+    padding: 10px 0px;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+
+.the-farm .farm-btn {
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.helth .helth-title h2 {
+    margin-right: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title h4 {
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title h5 {
+    margin-left: 0px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title p {
+    text-transform: capitalize;
+    /* font-size: 12px; */
+    font-weight: 400;
+    color: black;
+    margin-right: 0px;
+    text-align: center;
+}
+
+
+.helth .helth-title-1 h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title-1 p {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+
+.helth .helth-img {
+    width: auto;
+    height: auto;
+    margin: 0px;
+}
+
+.helth .helth-title-1 {
+    padding: 10px 0px;
+    text-align: center;
+}
+.helth .helth-title-1 h5 {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title-2 h2{
+text-align: center;
+}
+
+.helth .helth-title-2 p {
+    text-align: center;
+    margin-right: 0px;
+    }
+.helth .helth-title-3 h2 {
+    text-align: center;
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title-3 p {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+.musroom {
+    width: 100%;
+    padding: 20px 0px;
+    background: #eee;
+}
+
+
+
+.musroom .our-mas-img {
+    width: 100%;
+    padding: 0px;
+}
+.our-team {
+    width: 100%;
+    padding: 0px;
+    background: url(../images/bg1.jpg) center top no-repeat;
+    background-size: cover;
+}
+.our-team-1 {
+    padding: 20px 0px;
+}
+.our-team-1 h4 {
+    margin: 0px 0px 0px 0px;
+    font-size: 10px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.2em;
+    color: white;
+}
+.our-team-1 h6 {
+    font-size: 10px;
+    margin: 0px;
+    text-align: center;
+    color: red;
+    font-weight: 300;
+    line-height: 1.2em;
+}
+.shop {
+    width: 100%;
+    padding: 40px 0px;
+}
+
+.shop .shop-details {
+    padding: 10px;
+    text-align: center;
+}
+.shop .shop-details .shop-img {
+    padding: 10px 0px;
+    background: #eee;
+}
+.reicipes p {
+    text-align: center;
+    padding: 23px 0px;
+    margin: 0px 0px 0px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+.reicipes .btn-danger {
+    background: white;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 1px solid #eee;
+    border-radius: 1px;
+}
+.choose {
+    width: 100%;
+    padding: 40px 0px;
+}
+.blog .icon .fa {
+    font-size: 18px;
+    margin: 0px 0px 0px 80px;
+}
+.awards {
+    width: 100%;
+    padding: 0px;
+    background: #eee;
+    display: block;
+}
+
+.aw-img{
+  width: auto;
+  height: auto;
+  text-align: center;
+  margin: 0px 0px 0px 20px;
+}
+.main-footer {
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+ul li a {
+    font-size: 14px;
+    color: chartreuse;
+    text-transform: uppercase;
+    font-weight: bold;
+    }
+    .h5, h5 {
+    color: burlywood;
+    font-size: 20px;
+}
+
+.footer {
+    width: 100%;
+    padding: 0px 0px;
+    background: url(../images/ftbg2.jpg) center top no-repeat;
+    background-size: cover;
+}
+.footer .title h2 {
+    padding: 20px 0px;
+    text-transform: uppercase;
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+}
+
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+img {
+    max-width: 50%;
+    height: auto;
+}
+
+.main-header .btn-danger {
+    margin: 10px 0px;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    background: white;
+}
+
+.main-header {
+   
+    margin: 0px;
+    background: black;
+}
+.header .address p {
+    font-size: 12px;
+    margin: 0px;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-align: center;
+}
+
+.header .address h6 {
+    font-size: 13px;
+    margin: 0px;
+    font-weight: bold;
+    line-height: 1.2em;
+    text-align: center;
+}
+.header .address {
+    width: 100%;
+    padding: 5px 0px;
+}
+.header .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 10px 0px;
+    color: black;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0px;
+    text-transform: uppercase;
+}
+.header .icon {
+    font-size: 12px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px 0px 0px 10px;
+}
+.icon .fa {
+    font-size: 25px;
+    border: 1px solid #eee;
+    border-radius: 20px;
+}
+.icon p {
+    font-size: 10px;
+}
+.masroom h2 {
+    text-align: center;
+    font-size: 16px;
+    color: red;
+    font-weight: bold;
+    line-height: 1.4em;
+    margin: 0px;
+    padding: 0px;
+}
+.product {
+    width: 100%;
+    padding: 20px 0px;
+    text-align: center;
+}
+.product h4 {
+    padding: 0px;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 700;
+    color: black;
+}
+
+.product p {
+    text-transform: capitalize;
+    font-size: 10px;
+    font-weight: 400;
+    color: black;
+}
+.pro-img {
+    /* text-align: center; */
+    padding: 20px 0px;
+    width: auto;
+    height: auto;
+    margin: 0px;
+}
+.the-farm {
+    width: 100%;
+    padding: 40px 0px;
+    background: #eee;
+}
+.the-farm .title p {
+    text-transform: capitalize;
+    font-size: 12px;
+    font-weight: 600;
+    color: black;
+}
+.the-farm .title {
+    padding: 0px;
+}
+.the-farm .farm-img {
+    text-align: center;
+    width: 100%;
+    padding: 10px 0px;
+}
+.the-farm .farm-btn {
+    width: 100%;
+    padding: 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.the-farm .btn-danger {
+    /* padding: 0px; */
+    color: white;
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    border: 1px solid #eee;
+    border-radius: 1px;
+}
+.helth {
+    width: 100%;
+    padding: 40px 0px;
+}
+.helth .title p {
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title p {
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+    margin-right: 0px;
+}
+.helth .helth-title h2 {
+    margin-right: 0px;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.helth .helth-title h4 {
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title h5 {
+    margin-left: 0px;
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title-1 h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 26px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title-1 p {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+}
+.helth .helth-title-1 {
+    padding: 20px 0px;
+}
+.helth .helth-img {
+    text-align: center;
+    width: auto;
+    margin: 0px;
+}
+.helth .helth-title-1 h4 {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title-1 h5 {
+    text-align: right;
+    text-transform: capitalize;
+    font-size: 10px;
+    font-weight: 400;
+    color: black;
+}
+
+.helth .helth-title-2 h2 {
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+  }
+.helth .helth-title-2 p {
+  text-align: right;
+    margin-right: 0px;
+    text-transform: capitalize;
+    font-size: 12px;
+    font-weight: 400;
+    color: black;
+}
+
+.helth .helth-title-3 h2 {
+    padding: 20px 0px;
+    margin-left: 0px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+.helth .helth-title-3 p {
+    margin-left: 0px;
+    text-align: right;
+    text-transform: capitalize;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+}
+
+.musroom {
+    width: 100%;
+    padding: 10px;
+    background: #eee;
+}
+.musroom .our-mas-img {
+    text-align: center;
+    width: 100%;
+    padding: 20px 0px;
+}
+.our-team {
+    width: 100%;
+    padding: 10px 0px;
+    background: url(../images/bg1.jpg) center top no-repeat;
+    background-size: cover;
+}
+
+.our-team-1 {
+    padding: 0px;
+}
+.our-team-1 h4 {
+    font-size: 12px;
+    margin: 0px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1.2em;
+    color: white;
+}
+.our-team-1 h6 {
+    font-size: 14px;
+    margin: 0px;
+    text-align: center;
+    color: red;
+    font-weight: 300;
+    line-height: 1.2em;
+}
+
+.shop {
+    width: 100%;
+    padding: 10px 0px;
+}
+.shop {
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.shop .shop-details h3 {
+    padding: 20px 0px;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    }
+
+
+.breads p {
+    padding: 10px 0px;
+    margin: 0px;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+
+.breads h1 {
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+    line-height: 1.2em;
+}
+
+.breads .btn-danger {
+    margin: 0px;
+}
+.reicipes p {
+    padding: 10px 0px;
+    margin: 0px;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    text-transform: uppercase;
+}
+
+.reicipes .btn-danger {
+    background: white;
+    margin: 0px;
+    color: black;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border: 1px solid #eee;
+    }
+
+    .choose {
+    width: 100%;
+    padding: 10px 0px;
+}
+
+.choose .icon {
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.choose .icon .fa {
+    font-size: 40px;
+    color: red;
+}
+
+.choose .title h3 {
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    text-transform: uppercase;
+}
+.choose .title p {
+    text-transform: capitalize;
+    font-size: 14px;
+    font-weight: 400;
+    color: black;
+}
+
+.choose .inner-btn {
+    padding: 0px;
+    text-align: center;
+}
+.top-rated .title h2 {
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.top-rated .title p {
+    text-transform: capitalize;
+    font-size: 12px;
+    font-weight: 400;
+    color: azure;
+}
+
+.blof-img {
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.blog .title-1 h2 {
+    text-transform: uppercase;
+    font-size: 17px;
+    font-weight: bold;
+    color: black;
+    letter-spacing: 0px;
+}
+.title-1 p {
+    font-size: 13px;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+.blog .icon .fa {
+    font-size: 18px;
+    margin: 0px 0px 0px 30px;
+}
+.awards {
+    width: 100%;
+    padding: 0px;
+    background: #eee;
+}
+.aw-img{
+   text-align: center;
+   width: 100%;
+   height: auto;
+}
+
+.footer .btn-success {
+    font-size: 13px;
+    margin: 0px;
+    text-transform: uppercase;
+    color: black;
+}
+.main-footer {
+    width: 100%;
+    padding: 40px 0px;
+    text-align: center;
+}
+
+ul li a {
+    font-size: 12px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+
+.footer {
+    width: 100%;
+    padding: 0px;
+    background: url(../images/ftbg2.jpg) center top no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+  
+}
